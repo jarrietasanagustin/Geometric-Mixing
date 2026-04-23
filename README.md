@@ -1,13 +1,11 @@
 # Geometric Mixing
 
-In this repository I will add of the codes needed for the training an learning of the
-so-called Oreste's game. The analytical solution is developed in Wolfram Mathematica, 
-whereas as the traning of the system will be done in Python
- 
-Este proyecto incluye todos los códigods e información necesaria para la 
-el reanálisis de la fase geométrica. Eso incluye dos aspectos
-1-Redefinir el flujo del problema que se hará haciendo uso de Mathematica para 
-así calcular el tensor de deformaciones y minimizar los errores en el cálculo de las derivadas.
-2- Rehacer el algoritmo de aprendizaje para poder calcular posición y ángulo
+**Author:** Jorge Arrieta  
+**Started:** April 2024  
+**Last updated:** April 2026
 
-Jorge Arrieta Abril de 2024
+"This project includes all the code and information necessary for the reanalysis of the geometric phase. This covers two aspects:
+
+Redefine the flow of the problem using Mathematica to compute the strain tensor and minimize errors in the calculation of derivatives.
+Reimplement the learning algorithm to compute position and angle."
+
