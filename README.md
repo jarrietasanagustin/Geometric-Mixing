@@ -1,4 +1,8 @@
 # Geometric Mixing
+
+In this repository I will add of the codes needed for the training an learning of the
+so-called Oreste's game. The analytical solution is developed in Wolfram Mathematica, 
+whereas as the traning of the system will be done in Python
  
 Este proyecto incluye todos los códigods e información necesaria para la 
 el reanálisis de la fase geométrica. Eso incluye dos aspectos
