@@ -17,7 +17,7 @@ import sys
 def flow(t,state,omega_1,omega_2,R_1,R_2,epsilon_1):
     xi,eta,theta=state
     epsilon=epsilon_1#*(R_1-R_2)#value of the displacement of the center
-    AR=10
+    AR=10 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #Definition of the flow in bipolar coordinates
 #thes constants were checked in April 2024
